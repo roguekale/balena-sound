@@ -1,4 +1,108 @@
 - commits:
+    - subject: Update 05-audio-interfaces.md
+      hash: ff3e336cfa929557633fff6caa2af967e6a8b52f
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ramiro Gonzalez <ramiro.gonzalez@balena.io>
+        signed-off-by: Ramiro Gonzalez <ramiro.gonzalez@balena.io>
+      author: Ramiro González Maciel
+      nested: []
+  version: 3.9.3
+  title: "'Fix links from ../docs  to ./'"
+  date: 2022-06-15T18:56:27.854Z
+- commits:
+    - subject: Deleting remainder of banner...
+      hash: 47b9dcfb8071d62a394dce07386e39886f920099
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: andrew
+      nested: []
+  version: 3.9.2
+  title: "'FIX docs links'"
+  date: 2022-06-14T14:43:08.677Z
+- commits:
+    - subject: Removing meetup banner now that event has ended.
+      hash: e949ae9c72bd22b3bb9a3e0b734d8edb850dd9bd
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: andrew
+      nested: []
+  version: 3.9.1
+  title: "'Removing meetup banner now that event has ended.'"
+  date: 2022-04-28T22:12:02.954Z
+- commits:
+    - subject: Use balenaHub proxy registry for blocks
+      hash: 2325cc6f0f062c6beaf4743d5b67fbd78c5698eb
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Tomás Migone <tomas@balena.io>
+        signed-off-by: Tomás Migone <tomas@balena.io>
+      author: Tomás Migone
+      nested: []
+  version: 3.9.0
+  title: "'Use balenaHub proxy registry for blocks'"
+  date: 2022-04-05T18:17:08.150Z
+- commits:
+    - subject: update meet-up event page URL
+      hash: b328c51534f39ba7c3b2777602ad46d10e416dd2
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: iayanpahwa
+      nested: []
+  version: 3.8.9
+  title: "'update meet-up event page URL'"
+  date: 2022-03-21T10:27:13.584Z
+- commits:
+    - subject: Add redirect for balena-sound website.
+      hash: c665ba91125502594845ae587941c4a64ed2b119
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Carlo Miguel F. Cruz <carloc@balena.io>
+        signed-off-by: Carlo Miguel F. Cruz <carloc@balena.io>
+      author: Carlo Miguel F. Cruz
+      nested: []
+  version: 3.8.8
+  title: "'Add redirect for balena-sound website.'"
+  date: 2022-03-21T02:26:12.341Z
+- commits:
+    - subject: "readme: add event link and emojis"
+      hash: a00190cd8bc78b3f721c5a3a4055b45d7aae0d27
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Tomás Migone <tomas@balena.io>
+        signed-off-by: Tomás Migone <tomas@balena.io>
+      author: Tomás Migone
+      nested: []
+  version: 3.8.7
+  title: "'readme: add event link and emojis'"
+  date: 2022-03-16T12:35:11.074Z
+- commits:
+    - subject: add anniversary meet-up details to README
+      hash: b32d05e31aee3841dc39ce1d4e50259c2db015ad
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: iayanpahwa
+      nested: []
+  version: 3.8.6
+  title: "'add anniversary meet-up details to README'"
+  date: 2022-03-16T10:10:08.551Z
+- commits:
     - subject: "landr: rebuild docs site"
       hash: 468228942ea60bf104604e38c802c66ed9d368d8
       body: ""
